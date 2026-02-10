@@ -1,0 +1,1 @@
+# lab5_abdullahrashid-1.py
